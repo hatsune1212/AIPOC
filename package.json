@@ -1,0 +1,26 @@
+{
+  "name": "aipoc",
+  "version": "1.0.0",
+  "description": "This repository hosts a proof-of-concept implementation for an AI-driven \"organization health\" survey platform. The goal is to structure employee frustrations and visualize organizational health, while preserving anonymity and surfacing concrete improvement suggestions.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hatsune1212/AIPOC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hatsune1212/AIPOC/issues"
+  },
+  "homepage": "https://github.com/hatsune1212/AIPOC#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
